@@ -6,24 +6,17 @@
   
 <!-- <h3 align="left">Programming Tech Stacks:</h3> -->
 #### Programming Tech Stacks:
+<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" title="Android" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" title="iOS" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40">
-<img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" title="Rust" width="40" height="40" style="background-color: coral;">
+<img align="left" src="http://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" title="Rust" width="40" height="40">
 
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> Firebase </td>   
-
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google map" width="40" height="40"> Google Map</td>                        
-   </tr>
-  </table>
-
-<figure>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="150" width="90">
-    <figcaption>Your label goes here</figcaption>
-</figure>
+#### System Tech Stacks:
+<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
 
