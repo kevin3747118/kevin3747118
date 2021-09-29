@@ -25,13 +25,15 @@
 <br />
 
 #### System Tech Stacks:
-<img align="left" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Firebase" title="Firebase" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" title="GCP" width="40" height="40">
 
 <br />
 <br />
 
 #### Database Tech Stacks:
-<img align="left" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" title="Oracle" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="AWS" title="AWS" width="40" height="40">
 
 <br />
 <br />
@@ -40,8 +42,9 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40">
 <img align="left" src="https://www.hivemq.com/img/svg/hivemq-bee.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40">
 
-
 <br />
+<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
 
 <h3 align="left">Connect with me:</h3>
