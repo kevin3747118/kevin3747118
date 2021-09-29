@@ -36,4 +36,4 @@
 <br/>
 <br/>
 <h3 align="left">Badges for Github activity:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidh83110&theme=darkhub&no-bg=true" alt="kevin3747118" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidh83110&theme=darkhub&no-bg=true" alt="davidh83110" /></a> </p>
