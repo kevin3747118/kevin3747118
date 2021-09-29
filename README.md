@@ -21,9 +21,13 @@
   </table>
   
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-
-| System Tech Stacks: |
+| System Tech Stacks: | | | |
 | ------------ | ------------- | ------------------ | ------------ |
 | Millisecond https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg | Millimetre https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg | Kilometre per hour | Milligram    |
 
