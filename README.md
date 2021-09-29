@@ -21,9 +21,10 @@
    </tr>
   </table>
 
-| System Tech Stacks: | | | |
-| ------------ | ------------- | ------------------ | ------------ |
-| Millisecond https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg | Millimetre https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg | Kilometre per hour | Milligram    |
+<figure>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="150" width="90">
+    <figcaption>Your label goes here</figcaption>
+</figure>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
 
