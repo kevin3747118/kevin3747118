@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h1 align="left">Hi 👋  I am a </h1>
 <h3 align="left">Software Engineer</h3>
 
@@ -19,13 +25,6 @@
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google map" width="40" height="40"> Google Map</td>                        
    </tr>
   </table>
-  
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 | System Tech Stacks: | | | |
 | ------------ | ------------- | ------------------ | ------------ |
