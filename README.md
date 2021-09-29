@@ -13,7 +13,6 @@
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> Java </td>
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"> Kotlin </td>    
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"> Swift </td>   
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"> Obj- C </td>
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"> Rust </td>
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> Firebase </td>   
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="rails" width="40" height="40"> Flutter </td>
