@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋  I am a </h1>
 <h3 align="left">Software Engineer</h3>
 
-- 📫 Reach me at **kevin3747118@outlook.com**
+- 📫  Reach me at **kevin3747118@outlook.com**
 
 - Available communication languages **English, Chinese, Taiwanese Hokkien**
   
@@ -19,6 +19,17 @@
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google map" width="40" height="40"> Google Map</td>                        
    </tr>
   </table>
+  
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| System Tech Stacks: |
+| ------------ | ------------- | ------------------ | ------------ |
+| Millisecond https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg | Millimetre https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg | Kilometre per hour | Milligram    |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
 
