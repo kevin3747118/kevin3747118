@@ -1,8 +1,8 @@
 ### Hi there, I'm Kevin Huang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <br />
-<p align="left"> 
+<!-- <p align="left">  -->
   <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> 
-</p>
+<!-- </p> -->
 
 - 📫  Reach me at **kevin3747118@outlook.com**
 
@@ -48,6 +48,8 @@
 #### IoT Tech Stacks:
 <img align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40">
 <img align="left" src="https://www.hivemq.com/img/svg/hivemq-bee.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40">
+<img align="left" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/amazon-alexa-logo.png" alt="Alexa" title="Alexa" width="40" height="40">
+<img align="left" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/google_home_new_logo_icon_159140.png" alt="Google Home" title="Google Home" width="40" height="40">
 <br />
 <br />
 
