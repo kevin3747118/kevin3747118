@@ -1,4 +1,8 @@
-### Hi there, I'm Kevin Huang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> </p>
+### Hi there, I'm Kevin Huang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<br />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> 
+</p>
 
 - 📫  Reach me at **kevin3747118@outlook.com**
 
