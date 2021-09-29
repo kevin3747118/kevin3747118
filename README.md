@@ -71,7 +71,3 @@
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> </p> -->
-
-<br/>
-<br/>
-
