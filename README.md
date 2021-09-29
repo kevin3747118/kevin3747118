@@ -1,5 +1,6 @@
-<h1 align="left">Hi 👋  I am a </h1>
-<h3 align="left">Software Engineer</h3>
+<!-- <h1 align="left">Hi 👋  I am a </h1>
+<h3 align="left">Software Engineer</h3> -->
+### Hi there, I'm Kevin Huang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📫  Reach me at **kevin3747118@outlook.com**
 
