@@ -1,8 +1,4 @@
 ### Hi there, I'm Kevin Huang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<br />
-<!-- <p align="left">  -->
-  <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> 
-<!-- </p> -->
 
 - 📫  Reach me at **kevin3747118@outlook.com**
 
@@ -55,13 +51,18 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
  -->
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 #### Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100000332303571" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tsingshen" height="30" width="40" />
+    
+    <br />
+<!-- <p align="left">  -->
+  <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> 
+<!-- </p> -->
   </a>
 </p>
 
