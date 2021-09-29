@@ -10,6 +10,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" title="Android" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" title="iOS" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40">
@@ -20,7 +21,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" title="JavaScript" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg" alt="Koa" title="Koa" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" title="Express" width="40" height="40">
-
 <br />
 <br />
 
@@ -28,12 +28,14 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" title="GCP" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
 <br />
 <br />
 
 #### Database Tech Stacks:
 <img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" title="Oracle" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="40" height="40">
+<img align="left" src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="MSSQL" title="MSSQL" width="40" height="40">
 <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/aws-rds-logo-png-transparent.png" alt="AWS RDS" title="AWS RDS" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" title="mongoDB" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="redis" width="40" height="40">
