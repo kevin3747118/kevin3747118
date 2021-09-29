@@ -34,6 +34,7 @@
 #### Database Tech Stacks:
 <img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" title="Oracle" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="40" height="40">
+<img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/aws-rds-logo-png-transparent.png" alt="AWS RDS" title="AWS RDS" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" title="mongoDB" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="redis" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" title="Elasticsearch" width="40" height="40">
@@ -43,11 +44,13 @@
 #### IoT Tech Stacks:
 <img align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40">
 <img align="left" src="https://www.hivemq.com/img/svg/hivemq-bee.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40">
-
 <br />
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
+
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
