@@ -10,17 +10,12 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" title="iOS" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" title="Rust" width="40" height="40" style="background-color:white;">
 
-<table style="border-size:0px">
-  <tr >
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"> Android </td>    
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="ios" width="40" height="40"> Apple iOS </td>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> Java </td>
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"> Kotlin </td>    
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"> Swift </td>   
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"> Rust </td>
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> Firebase </td>   
-    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="rails" width="40" height="40"> Flutter </td>
+
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google map" width="40" height="40"> Google Map</td>                        
    </tr>
   </table>
