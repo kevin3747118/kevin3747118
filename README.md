@@ -6,10 +6,10 @@
   
 <!-- <h3 align="left">Programming Tech Stacks:</h3> -->
 #### Programming Tech Stacks:
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" title="Android" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" title="iOS" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" title="Android" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" title="iOS" width="40" height="40">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
 
 <table style="border-size:0px">
   <tr >
