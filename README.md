@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="left">Hi 👋  I am a </h1>
 <h3 align="left">Software Engineer</h3>
 
