@@ -28,13 +28,15 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" title="GCP" width="40" height="40">
-
 <br />
 <br />
 
 #### Database Tech Stacks:
-<img align="left" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="AWS" title="AWS" width="40" height="40">
-
+<img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" title="Oracle" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" title="mongoDB" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="redis" width="40" height="40">
+<img align="left" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" title="Elasticsearch" width="40" height="40">
 <br />
 <br />
 
