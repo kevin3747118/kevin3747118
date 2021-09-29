@@ -12,7 +12,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40">
-<img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" title="Rust" width="40" height="40" style="background-color:red">
+<img align="left" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" title="Rust" width="40" height="40" style="background-color: coral;">
 
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> Firebase </td>   
 
