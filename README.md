@@ -1,26 +1,13 @@
-<style>
-figure {
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: auto;
-}
-
-figcaption {
-  background-color: black;
-  color: white;
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-</style>
-
 ### Hi there, I'm Kevin Huang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📫  Reach me at **kevin3747118@outlook.com**
 
 - Available communication languages **English, Chinese, Taiwanese Hokkien**
   
-<h3 align="left">Programming Tech Stacks:</h3>
+<!-- <h3 align="left">Programming Tech Stacks:</h3> -->
+### Programming Tech Stacks:
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" title="Android" width="50" height="50">
+
 <table style="border-size:0px">
   <tr >
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"> Android </td>    
