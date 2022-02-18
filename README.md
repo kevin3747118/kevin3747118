@@ -7,9 +7,9 @@
 <!-- <h3 align="left">Programming Tech Stacks:</h3> -->
 #### Programming Tech Stacks:
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" title="Android" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" title="iOS" width="40" height="40">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40">
