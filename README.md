@@ -23,7 +23,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" title="Express" width="40" height="40">
 <br />
 <br />
-
 #### System Tech Stacks:
 <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40">
