@@ -17,7 +17,6 @@
 <img align="left" src="http://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" title="Rust" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" title="Django" width="40" height="40">
-<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" title="JavaScript" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg" alt="Koa" title="Koa" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" title="Express" width="40" height="40">
