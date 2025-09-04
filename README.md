@@ -51,7 +51,7 @@
 <br />
 
 #### Badges for Github activity:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin3747118&theme=darkhub&no-bg=true" alt="kevin3747118" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin3747118&theme=radical" alt="kevin3747118" /></a> </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3747118&show_icons=true&locale=en&layout=compact" alt="kevin3747118" /></p>
  -->
