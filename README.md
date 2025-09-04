@@ -64,4 +64,6 @@
   </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin3747118&show_icons=true)
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin3747118&label=Profile%20views&color=0e75b6&style=flat" alt="kevin3747118" /> </p> -->
